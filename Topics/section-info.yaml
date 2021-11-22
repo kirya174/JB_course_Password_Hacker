@@ -3,3 +3,22 @@ content:
 - Argparse module
 - Files in Python
 - Reading files
+- Writing files
+- Context manager
+- Bytes basics
+- Creating bytes
+- Socket module
+- Lambda functions
+- Map and filter
+- Custom generators
+- Iterators
+- Itertools module
+- Operations with dictionary (1)
+- Kwargs
+- Errors
+- Exceptions
+- Built-in exceptions
+- Exception handling
+- Json module
+- Else statement
+- Time module
